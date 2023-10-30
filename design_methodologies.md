@@ -26,7 +26,7 @@ Key concepts in software engineering that are used to measure the quality of a s
 |Can detect erros early|Easy to create and observe tests|
 |Each step of refinement, parts become less complex|More suitable if defects occur at end of Programme|
 |<ins>Disadvantages:</ins>|<ins>Disadvantages:</ins>|
-|Slow in dynammic programming|Programme Can't exist without the last module|
+|Slow in dynammic programming|Programme can't exist without the last module|
 |Takes more memory as recursion is involved|More code is written as it's iterative|
 
 Structured design and Function Oriented design are top-down strategies whilst Object Oriented desgin is a bottom-up approach. 
@@ -34,6 +34,8 @@ Object Oriented desgin can be carried out using UML diagrams, where as Function 
 
 
 ### Four Pillars of Object Oriented Programming
+|Pillar|Description|
+|---|---|
 |**Abstraction**|Hide the implementation details, allows for a function to be called wihtout understanding exactly what it's doing|
 |**Encapsulation**|Bundles attributes and methods of an object together whilst restricting access of the data and methods from the outside (information hiding)|
 |**Inheritance**|Allows similar classes to stack in a hierarchical way so that lower sub-classes can import and implement variables and methods from super classes|

@@ -13,4 +13,10 @@ Key concepts in software engineering that are used to measure the quality of a s
 | Overview of the system is formulated without going into detail of the parts. Each part is then refined into more detail.|  Individual parts specified in detail, which are then linked to form larger components. |
 |  Used by structured programming languages   |  Used by object oriented programming lnaguages     |
 |Used in debugging, module documentation| Used in testing |
-|Essentially decomposition|Compared to composition|
+|Decomposition approach|Composition approach|
+|<ins>Advantages:</ins>|<ins>Advantages:</ins>|
+|Can detect erros early|Easy to create and observe tests|
+|Each step of refinement, parts become less complex|More suitable if defects occur at end of Programme|
+|<ins>Disadvantages:</ins>|<ins>Disadvantages:</ins>|
+|Slow in dynammic programming|Programme Can't exist without the last module|
+|Takes more memory as recursion is involved|More code is written as it's iterative|

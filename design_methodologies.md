@@ -36,14 +36,14 @@ Object Oriented desgin can be carried out using UML diagrams, where as Function 
 ### Four Pillars of Object Oriented Programming
 |Pillar|Description|
 |---|---|
-|**Abstraction**|Hide the implementation details, allows for a function to be called wihtout understanding exactly what it's doing|
+|**Abstraction**|Hide the implementation details, allows for a function to be called without understanding exactly what it's doing|
 |**Encapsulation**|Bundles attributes and methods of an object together whilst restricting access of the data and methods from the outside (information hiding)|
 |**Inheritance**|Allows similar classes to stack in a hierarchical way so that lower sub-classes can import and implement variables and methods from super classes|
 |**Polymorphism**|Ability of an object to take on multiple forms. Allows a single interface to perform tasks for different types|
 
 
 ### Stratergy Pattern
-Allows you to dynamically change the bahvior of an object by encapsulating it into different stratergies. Defines a family of algorithms, encapsulates each one and makes them interchangeable at runtime. Means the behaviour of an object can be extracted into seperate calsses so it can be swapped in and out. Improves code flexability and reusability whilst simplifying testing.
+Allows you to dynamically change the bahvior of an object by encapsulating it into different stratergies. Defines a family of algorithms, encapsulates each one and makes them interchangeable at runtime. Means the behaviour of an object can be extracted into seperate classes so it can be swapped in and out. Improves code flexability and reusability whilst simplifying testing.
 
 Stratergy Patterns typically use classes and objects that you'd find in object oriented programming but it can be implemented in function oriented programming although this is usually considered as a natural part of functional programming.
 

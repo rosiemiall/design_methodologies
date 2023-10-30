@@ -17,8 +17,7 @@ Key concepts in software engineering that are used to measure the quality of a s
 ### Top-Down and Bottom-Up Approaches
 | Top Down      | Bottom Up   |
 | -----------   | ----------- |
-| Overview of the system is formulated without going into detail of the parts. Each part is then refined into more detail.|  Individual parts specified 
-in detail, which are then linked to form larger components. |
+| Overview of the system is formulated without going into detail of the parts. Each part is then refined into more detail.|  Individual parts specified in detail, which are then linked to form larger components. |
 |Theory-driven|Data-driven|
 |  Used by structured programming languages   |  Used by object oriented programming lnaguages     |
 |Used in debugging, module documentation| Used in testing |
